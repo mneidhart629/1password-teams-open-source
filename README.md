@@ -2020,3 +2020,7 @@ https://sigstore.dev
 ### Bahasa
 Natural language toolkit for Indonesian Language (Bahasa).
 https://github.com/kangfend/bahasa
+
+### .Net Foundation
+An independent, non-profit organization, created to foster open development and collaboration around the growing collection of open source technologies for .NET. It serves as a forum for community developers to strengthen the future of the .NET ecosystem by promoting openness, community participation, and rapid innovation.
+https://github.com/dotnet-foundation
